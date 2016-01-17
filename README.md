@@ -6,6 +6,9 @@ Built in sketchup 8 with branch for sketchup 13.
 
 By Jeremy Scott and David Monaghan.
 
+Updated Feb 16th 2015 by Jeff Crawford
+Note: Use SketchUp.app to open the files, as they are 3 dementional.  Also the 2015 deskmovelayout was save from SketchUp 2015.
+
 
 I know this doesn't belong here but:
 
